@@ -2,11 +2,9 @@
 #include "edid.h"
 
 void EdidPrint();
-
-
 int ReadNameFile (char **arr);
 
-// /home/davaa/Desktop/Project_1/test.edid
+
 int main(void)
 {
     char *ar;
